@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Arpita Sinha </h1>
+    <button id="stop">stop</button>
+</body>
+
+<script>
+    const sayArpita = function(){
+        console.log("Arpita");
+    }
+    const chnageText = function(){
+        document.querySelector('h1').innerHTML = "best JS Series";
+    }
+
+    const changeMe = setTimeout(chnageText, 2000);
+    // document.querySelector('h1').innerHTML = "Best JS Series";
+
+    document.querySelector('#stop').addEventListener('click', function(){
+        
+    })
+
+    setTimeout(sayArpita, 2000);
+    // setTimeout(function(){
+    //     console.log("Arpita");
+    // }, 2000) // after 2000, it will print arpits once
+
+
+
+
+    // how to stop that execution before the setTime out wala part................
+    clearTimeout(changeMe)
+</script>
+</html>

@@ -1,0 +1,12 @@
+javascript = * synchronous (one after another process)
+* single threaded (ik pura process k baad hi dusra process hoga)
+
+execution context  = execute one line of code at a time.
+
+BLOCKING CODE    &    NON BLOCKING CODE
+
+* Block the flow       *Does not block 
+of program                execution
+
+read file sync          read file async
+

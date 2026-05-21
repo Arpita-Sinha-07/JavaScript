@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Arpita Sinha </h1>
+    <button id="start">Start</button>
+    <button id="stop">stop</button>
+</body>
+
+<script>
+    const sayDate = function(str){
+        console.log(str, Date.now());
+    }
+
+    const speakDate = function(){
+        console.log("Arpita", Date.now());
+    }
+    const stop = setInterval(sayDate, 1000, "Hii") // **
+    const interValid = setInterval(speakDate, 1000); //*
+
+    clearInterval(interValid);// stop act of the * mark console
+    clearInterval(stop)// stop the act of ** mark console
+
+    
+
+
+
+
+</script>
+</html>

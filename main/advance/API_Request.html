@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+
+<script>
+    const requestUrl = 'https://api.github.com/users/hiteshchoudhary'
+    const xyz = new XMLHttpRequest();
+    xyz.open('GET', requestUrl);
+    xyz.onreadystatechange = function(){
+        console.log(xyz.readyState);
+        if(xyz.readyState === 4){
+            const data = JSON.parse(this.responseText);
+            console.log(data.followers);            
+        }
+    }
+    //every data is in JSON format , but every data come si string so to convert the string into json
+    // we use JSON.parse(that string)
+    xyz.send();
+</script>
+</html>
