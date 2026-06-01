@@ -1,6 +1,8 @@
 javascript = * synchronous (one after another process)
 * single threaded (ik pura process k baad hi dusra process hoga)
 
+* each operation waits for the last on eto complete the execution
+
 execution context  = execute one line of code at a time.
 
 BLOCKING CODE    &    NON BLOCKING CODE
@@ -10,3 +12,8 @@ of program                execution
 
 read file sync          read file async
 
+             Memory Heap
+                |
+JS ENGINE ------ 
+                |
+             Call stack--------- WEB API [DOM API , Set timeout , setinterval , fetch(){priority}]

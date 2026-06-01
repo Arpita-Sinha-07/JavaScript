@@ -28,8 +28,12 @@
     //     alert("owl clicked!!")
     // })
 
-    //attachEvent() : 
-    // jQuery - on
+                        //attachEvent() : 
+                        // jQuery - on
+
+                        // type , timestamp defaultprevented 
+                        // target toelement src element currenttarget 
+                        // clientX clientY screenX screenYaltkey ctrlkey shiftkey keycode
 
     // document.getElementById('owl').addEventListener('click',function(e){
     //     console.log(e);
@@ -53,15 +57,15 @@
 
     document.querySelector('#images').addEventListener('click',function(e){
         console.log(e.target.parentNode);
-        let removeIt = e.target.parentNode
-        removeIt.remove()
-        if(e.target.tagName === 'IMG')
+        let removeIt = e.target.parentNode // parentNode uses to remove the whole parente node , here the li tag 
+        removeIt.remove() // as if clicked on the li tag then whole ul is removed
+        if(e.target.tagName === 'IMG') // that is why we are using this conditional !!!!
         {
             console.log(e.target.tagName);
             let removeIt = e.target.parentNode
             removeIt.remove()
         }
-        //or
+        // or
         // removeIt.parentNode.removeChild(removeIt);
     })
     
