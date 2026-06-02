@@ -31,18 +31,13 @@ function add(number1 , number2)
     return sum;
 }
 
-
 const result = add(3,7);
 console.log(result);
-
 
 function loginUserMessage(username)
 {
     return `${username} just logged in`
 }
 
-
 let state = loginUserMessage("Arpita");
 console.log(state)
-
-console.log()
