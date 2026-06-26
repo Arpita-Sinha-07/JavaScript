@@ -1,0 +1,16 @@
+HTTP Methods :
+
+GET-> When you want to 'get' some data from the server
+//when we type url in the browser then it is get type of request
+
+POST-> When you want to send and mutate some data in server
+//when we fill a from then it create a post kind of request(Forms uses this request)
+
+PUT-> When we have put some data in the server
+//When we upload photo to the site of server
+
+PATCH-> When we have to change data from the server
+//
+
+DELETE-> When we try to delete the data from the server
+//
