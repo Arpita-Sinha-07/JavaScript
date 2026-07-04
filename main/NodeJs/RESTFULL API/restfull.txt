@@ -1,0 +1,10 @@
+JSON = javascript object notation (key value pairs)
+SSR = Server side rendering
+
+
+1) Server Client Architecture
+if Clientis browser only - HTML is the best option to optionand if there
+
+
+2) Always respect all HTTP methods
+

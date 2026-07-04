@@ -51,6 +51,6 @@ app.listen(8000, () => console.log("Server Started"));
 // ^ - install all recommended and minor fixes automatically *5.3.0 ok , 6.2.1 not ok
 //~5.2.1 => .1 can be changed but not 5.2
 // ~ - install all the minor fixes automatically *5.2.4 ok , 5.3.1 not ok = 5.2.x
-// myServer.listen(8000, () => console.log('Server Started'))bash
+// myServer.listen(8000, () => console.log('Server Started'))
 
 
