@@ -1,3 +1,4 @@
+// first project with node n express with HTTP methods 
 const express = require('express');
 const users = require('./MOCK_DATA.json');
 const app = express();
@@ -7,7 +8,6 @@ const PORT = 8000;
 app.get("/api/users", (req, res) => {
     return res.json(users);
 })
-
 app.get('/users', (req,res) => {
     const html = `
     <ul>
@@ -16,32 +16,27 @@ app.get('/users', (req,res) => {
     `;
     res.send(html);
 })
-
 app.get('/users/:id', (req,res) => {
     const id = Number(req.params.id);
     const user = users.find((user) => user.id === id)
     return res.json(user)
 })
-
 app.post('/users', (req, res) => {
     //TODO : create a new user
     return res.json({status: 'pending'});
 })
-
-
 app.patch('/users/:id', (req, res) => {
     //TODO: edit the user with id
     return res.json({status: 'pending'});
 })
-
-
 app.delete('users/:id', (req, res) => {
     //TODO: delete the user with id
     return res.json({status: 'pending'});
 })
 
-// AS THE ROUTE IS SAME SO PERFORMING THE HTTP METHOD WITH THIS ANOTHER WAY
 
+
+// AS THE ROUTE IS SAME SO PERFORMING THE HTTP METHOD WITH THIS ANOTHER WAY, SHORT CUT ONE-------
 // app
 //     .route('api/users/:id')
 //     .get((req, res) => {
@@ -60,5 +55,3 @@ app.delete('users/:id', (req, res) => {
 
 
 app.listen(PORT, () => console.log(`Server started at PORT : ${PORT}`))
-
-// first project with node n express with HTTP methods 
