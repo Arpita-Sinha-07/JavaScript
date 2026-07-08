@@ -1,4 +1,4 @@
-# JavaScript Learning & Practice Repository 🚀
+# JavaScript and NodeJs Learning & Practice Repository 🚀
 
 > Consistency beats talent when talent doesn't practice.
 
@@ -10,7 +10,7 @@ Instead of simply consuming tutorials, I focus on writing code, experimenting wi
 
 The goal of this repository is to:
 
-- Strengthen JavaScript fundamentals
+- Strengthen JavaScript and NodeJs fundamentals
 - Develop problem-solving abilities
 - Understand ES6+ features and modern syntax
 - Write clean, readable, and maintainable code
