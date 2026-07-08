@@ -54,6 +54,7 @@ I believe that strong fundamentals create strong developers, which is why I dedi
 ## 💻 Tech Stack
 
 - JavaScript (ES6+)
+- Node Js
 - HTML5
 - CSS3
 - VS Code
