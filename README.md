@@ -6,7 +6,7 @@ This repository documents my journey of mastering JavaScript through daily pract
 
 Instead of simply consuming tutorials, I focus on writing code, experimenting with concepts, and building a strong foundation required for modern web development and software engineering.
 
-## 🎯 Purpose
+## 🎯 Purpose Of this Repository
 
 The goal of this repository is to:
 
@@ -66,7 +66,7 @@ This repository is a reflection of continuous learning, curiosity, and the commi
 
 > "Small improvements made consistently lead to remarkable results."
 
----
+-------
 
 ### 👨‍💻 Author
 
