@@ -68,31 +68,6 @@ It serves as both a **learning tracker** and a **revision resource**.
 * Middleware Basics
 * REST API Basics
 
----
-
-## 📂 Repository Structure
-
-```bash
-JavaScript-NodeJS-Learning/
-│
-├── JavaScript/
-│   ├── basics/
-│   ├── functions/
-│   ├── arrays-objects/
-│   ├── dom/
-│   ├── async-js/
-│   └── mini-projects/
-│
-├── NodeJS/
-│   ├── basics/
-│   ├── modules/
-│   ├── file-system/
-│   ├── http-server/
-│   ├── express/
-│   └── mini-projects/
-│
-└── README.md
-```
 
 ---
 
