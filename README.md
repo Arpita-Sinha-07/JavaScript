@@ -3,7 +3,7 @@
 This repository contains my learning journey, practice code, notes, and mini-projects for **JavaScript** and **Node.js**.
 The goal of this repo is to build a strong foundation in JavaScript fundamentals and backend development with Node.js through hands-on practice.
 
----
+------
 
 ## 📌 About This Repository
 
@@ -20,7 +20,7 @@ This repository is created to document my progress while learning:
 
 It serves as both a **learning tracker** and a **revision resource**.
 
----
+------
 
 ## 🚀 Topics Covered
 
@@ -69,7 +69,7 @@ It serves as both a **learning tracker** and a **revision resource**.
 * REST API Basics
 
 
----
+------
 
 ## 🎯 Purpose of This Repository
 
@@ -81,7 +81,7 @@ The main objectives of this repository are:
 * To maintain notes, code snippets, and mini-projects in one place
 * To track my progress in web development and backend learning
 
----
+------
 
 ## 🛠️ Tech Stack
 
@@ -92,7 +92,7 @@ The main objectives of this repository are:
 * **VS Code**
 * **Git & GitHub**
 
----
+------
 
 ## ▶️ How to Run the Code
 
@@ -123,7 +123,7 @@ npm install
 node app.js
 ```
 
----
+------
 
 ## 📈 Learning Goals
 
@@ -133,7 +133,7 @@ node app.js
 * Build small backend projects for practice
 * Prepare for full-stack and backend development roles
 
----
+------
 
 ## 📚 Notes
 
@@ -146,17 +146,13 @@ This repository is a personal learning space, so the code may include:
 
 As I continue learning, I’ll keep updating this repository with more concepts, projects, and improvements.
 
----
+------
 
 ## 🤝 Contributions
 
 This is primarily a personal learning repository, but suggestions and improvements are always welcome.
 
----
-
-## ⭐ Connect
-
-If you find this repository useful, feel free to explore it and follow my learning journey.
+------
 
 ## 📌 Author
 
