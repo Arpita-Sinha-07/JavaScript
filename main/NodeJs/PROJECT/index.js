@@ -1,9 +1,11 @@
 // first project with node n express with HTTP methods ___________________
-const express = require('express');
-const users = require('./MOCK_DATA.json');
-const app = express();
-const PORT = 8000;
+const express = require('express'); 
+const users = require('./MOCK_DATA.json'); // taking fake data
+const app = express(); //starting express for built functions for http methods
+const PORT = 8000; //prserving port ina constant
 
+
+//importing express in the file
 //Routes
 app.get("/api/users", (req, res) => {
     return res.json(users);
