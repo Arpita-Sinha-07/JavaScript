@@ -36,7 +36,7 @@ app.delete('users/:id', (req, res) => {
 
 
 
-// AS THE ROUTE IS SAME SO PERFORMING THE HTTP METHOD WITH THIS ANOTHER WAY, SHORT CUT ONE-------
+// AS THE ROUTE IS SAME SO PERFORMING THE HTTP METHOD WITH THIS ANOTHER WAY, SHORT CUT ONE (precise way)-------
 // app
 //     .route('api/users/:id')
 //     .get((req, res) => {
