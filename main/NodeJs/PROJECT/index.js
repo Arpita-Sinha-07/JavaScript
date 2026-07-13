@@ -4,7 +4,7 @@ const users = require('./MOCK_DATA.json'); // taking fake data
 const app = express(); //starting express for built functions for http methods
 const PORT = 8000; //prserving port ina constant
 
-
+//Doing the HTTP methods for the backend servers_______________
 
 //Routes
 app.get("/api/users", (req, res) => {
