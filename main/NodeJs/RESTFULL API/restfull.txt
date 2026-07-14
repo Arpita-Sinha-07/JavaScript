@@ -8,3 +8,4 @@ if Clientis browser only - HTML is the best option to optionand if there
 
 2) Always respect all HTTP methods
 
+//maintain these rules for rest api
