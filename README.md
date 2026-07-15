@@ -156,4 +156,4 @@ This is primarily a personal learning repository, but suggestions and improvemen
 
 ## 📌 Author
 
-**Arpita Sinha**
+**ARPITA SINHA**
