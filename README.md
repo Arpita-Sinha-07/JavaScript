@@ -5,7 +5,7 @@ The goal of this repo is to build a strong foundation in JavaScript fundamentals
 
 ------
 
-## 📌 About This Repository:
+## 📌 About This Repo:
 
 This repository is created to document my progress while learning:
 
@@ -22,7 +22,7 @@ It serves as both a **learning tracker** and a **revision resource**.
 
 ------
 
-## 🚀 Topics Covered:
+## 🚀 Topics Covered In This repo:
 
 ### JavaScript
 
@@ -71,7 +71,7 @@ It serves as both a **learning tracker** and a **revision resource**.
 
 ------
 
-## 🎯 Purpose of This Repository:
+## 🎯 Purpose of This Repo:
 
 The main objectives of this repository are:
 
