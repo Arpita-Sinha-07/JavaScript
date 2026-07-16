@@ -1,11 +1,11 @@
-# JavaScript & Node.js Learning Repository
+# JavaScript & Node.js Learning Repository:
 
 This repository contains my learning journey, practice code, notes, and mini-projects for **JavaScript** and **Node.js**.
 The goal of this repo is to build a strong foundation in JavaScript fundamentals and backend development with Node.js through hands-on practice.
 
 ------
 
-## 📌 About This Repository
+## 📌 About This Repository:
 
 This repository is created to document my progress while learning:
 
@@ -22,7 +22,7 @@ It serves as both a **learning tracker** and a **revision resource**.
 
 ------
 
-## 🚀 Topics Covered
+## 🚀 Topics Covered:
 
 ### JavaScript
 
@@ -71,7 +71,7 @@ It serves as both a **learning tracker** and a **revision resource**.
 
 ------
 
-## 🎯 Purpose of This Repository
+## 🎯 Purpose of This Repository:
 
 The main objectives of this repository are:
 
@@ -83,7 +83,7 @@ The main objectives of this repository are:
 
 ------
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
 * **JavaScript**
 * **Node.js**
@@ -94,7 +94,7 @@ The main objectives of this repository are:
 
 ------
 
-## ▶️ How to Run the Code
+## ▶️ How to Run the Code:
 
 ### Clone the Repository
 
@@ -125,7 +125,7 @@ node app.js
 
 ------
 
-## 📈 Learning Goals
+## 📈 Learning Goals:
 
 * Strengthen JavaScript problem-solving skills
 * Understand asynchronous programming deeply
@@ -135,7 +135,7 @@ node app.js
 
 ------
 
-## 📚 Notes
+## 📚 Notes:
 
 This repository is a personal learning space, so the code may include:
 
@@ -148,13 +148,14 @@ As I continue learning, I’ll keep updating this repository with more concepts,
 
 ------
 
-## 🤝 Contributions
+## 🤝 Contributions:
 
 This is primarily a personal learning repository, but suggestions and improvements are always welcome.
 
 ------
 
-## 📌 Author
+## 📌 Author:
 
 **ARPITA SINHA**
 Learning | Building | Developing
+
