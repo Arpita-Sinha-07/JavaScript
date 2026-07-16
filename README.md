@@ -96,7 +96,7 @@ The main objectives of this repository are:
 
 ## ▶️ How to Run the Code:
 
-### Clone the Repository
+### Clone the Repo
 
 ```bash
 git clone https://github.com/your-username/your-repository-name.git
