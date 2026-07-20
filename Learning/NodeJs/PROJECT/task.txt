@@ -11,3 +11,4 @@ POST/users - Create new user
 PATCH/ users/1 - Edit the user with id 1 
 
 DELETE/users/1 - delete the user with id 2has to be done
+// has to make all these chnages
